@@ -1,0 +1,18 @@
+{
+  "name": "ts-to-mock",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.10.0",
+    "json-schema-faker": "^0.5.4",
+    "ts-node": "^10.9.1",
+    "typescript-json-schema": "^0.62.0"
+  }
+}
